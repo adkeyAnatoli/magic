@@ -1,0 +1,13 @@
+{
+    "name": "Magic casino",
+    "short_name": "magiccasinoonline",
+    "icons": [
+        {
+            "src": "/wp-content/uploads/fbrfg/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
