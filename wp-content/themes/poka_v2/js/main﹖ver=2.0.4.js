@@ -1,9 +1,6 @@
 jQuery(document).ready(function ($) {
   var $window = $(window);
 
-  //placeholders for IE
-  $("input").placeholder();
-
   //Mm-menu
   $("#mobile-menu").mmenu({
     offCanvas: {
